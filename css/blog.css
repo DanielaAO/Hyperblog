@@ -14,7 +14,9 @@ body{
     margin: 0 auto;
     text-align: left;
 }
-
+.container h1{
+    font-size: 18px
+}
 .post{
     padding: 10px;
 }
@@ -33,5 +35,5 @@ font-size: 18px;
 .tagline{
     font-weight: normal;
     padding: 0.8em;
-    font-size: 1em;
+    font-size:medium;
 }
