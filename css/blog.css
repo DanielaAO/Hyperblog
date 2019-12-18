@@ -10,7 +10,7 @@ body{
 
 .container{
     border: 1px solid #ddd;
-    width: 500px;
+    width: 600px;
     padding: 0px;
     margin: 0 auto;
     text-align: left;
@@ -22,7 +22,6 @@ body{
     padding: 10px;
     background: white;
 }
-
 
 .cabecera{
 background: #5E6EC9;
