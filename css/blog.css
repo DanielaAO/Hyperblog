@@ -24,6 +24,11 @@ body{
     background: white;
 }
 
+.image{
+ display: block;
+ margin: auto;
+}
+
 .cabecera{
 background: #5E6EC9;
 color: white;
