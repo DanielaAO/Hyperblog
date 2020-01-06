@@ -2,9 +2,9 @@
  Es un blog para el[ curso de git y github](http://platzi.com/clases/git-github/ " curso de git y github") de platzi. 
 
 
-## Con este curso podrás: 
+## Con este curso aprendí: 
 
-* Aprender todos los comandos de Git
+* Todos los comandos de Git
 * Llevar un Control de Versiones en tus Proyectos con Git
 * Trabajar en Equipos de Forma Colaborativa
 * Trabajar con múltiples entornos de trabajo
